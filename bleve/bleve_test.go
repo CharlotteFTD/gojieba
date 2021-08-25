@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/blevesearch/bleve"
-	"github.com/yanyiwu/gojieba"
+	"github.com/CharlotteFTD/gojieba"
 )
 
 func Example() {
