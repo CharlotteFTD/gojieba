@@ -10,6 +10,7 @@
 #include "FullSegment.hpp"
 #include "MixSegment.hpp"
 #include "Unicode.hpp"
+#include "DictTrie.hpp"
 
 namespace cppjieba {
 class QuerySegment: public SegmentBase {

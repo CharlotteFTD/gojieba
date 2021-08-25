@@ -6,5 +6,4 @@ tags
 *.ut
 build
 example/example
-.idea
-
+.vscode
